@@ -1,0 +1,10 @@
+,Route_name,Route_link,Bus_name,Bus_type,Depature_time,Duration,Reaching_time,Price,Seat_Available
+0,Shirdi to Goa,https://www.redbus.in/bus-tickets/shirdi-to-goa,Kadamba Transport Corporation Limited (KTCL) - 180183,A/C Sleeper (2+1),14:00,16h 00m,06:00,INR 1400,11 Seats available
+1,Shirdi to Goa,https://www.redbus.in/bus-tickets/shirdi-to-goa,PSR Travels Goa (Parrikar),VE A/C Sleeper (2+1),18:00,15h 00m,09:00,INR 1299,26 Seats available
+2,Shirdi to Goa,https://www.redbus.in/bus-tickets/shirdi-to-goa,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),15:00,17h 00m,08:00,INR 1350,9 Seats available
+3,Shirdi to Goa,https://www.redbus.in/bus-tickets/shirdi-to-goa,Humsafar Travels,Bharat Benz A/C Sleeper (2+1),14:30,19h 00m,09:30,INR 1480,13 Seats available
+4,Shirdi to Goa,https://www.redbus.in/bus-tickets/shirdi-to-goa,Hans Travels (I) Private Limited,A/C Sleeper (2+1),20:19,14h 20m,10:39,INR 1500,23 Seats available
+5,Calangute (goa) to Panaji,https://www.redbus.in/bus-tickets/calangute-goa-to-panaji,Kadamba Transport Corporation Limited (KTCL) - 99716,AC Seater (2+2),10:00,00h 31m,10:31,INR 100,41 Seats available
+6,Calangute (goa) to Panaji,https://www.redbus.in/bus-tickets/calangute-goa-to-panaji,Kadamba Transport Corporation Limited (KTCL) - 78627,Volvo AC Seater 2+2,13:30,00h 31m,14:01,INR 100,40 Seats available
+7,Calangute (goa) to Panaji,https://www.redbus.in/bus-tickets/calangute-goa-to-panaji,Kadamba Transport Corporation Limited (KTCL) - 99718,AC Seater (2+2),15:30,00h 31m,16:01,INR 100,41 Seats available
+8,Panaji to Calangute (goa),https://www.redbus.in/bus-tickets/panaji-to-calangute-goa,Kadamba Transport Corporation Limited (KTCL) - 99707,AC Seater (2+2),14:46,00h 44m,15:30,INR 100,41 Seats available
